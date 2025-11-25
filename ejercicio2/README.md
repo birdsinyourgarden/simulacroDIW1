@@ -7,7 +7,7 @@ Crea una página web que contenga un formulario con los siguientes campos de inf
 * El sexo, con dos opciones excluyentes hombre o mujer.
 * El correo electrónico, con un control de tipo texto.
 * Una casilla de verificación con el texto "Deseo recibir información sobre novedades y ofertas".
-* Una casilla de verificación con el texto "Declaro haber leido y aceptar las condiciones generales del programa y la normativa sobre protección de datos".*n botón de envío.
+* Una casilla de verificación con el texto "Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos".Con botón de envío.
 
 Además, tienes que tener en cuenta los siguientes requisitos:
 
