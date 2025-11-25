@@ -1,1 +1,93 @@
-/* Los estilos van aquí */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+
+}
+
+
+.header {
+    background-color: brown;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-container {
+    background-color: bisque;
+    width: 280px;
+    height: 60px;
+}
+
+.menu-container {
+    background-color: bisque;
+    width: 50px;
+    height: 50px;
+}
+
+.main-section {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.content-left {
+    background-color: rgb(95, 197, 197);
+    width: 280px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.profile-image-container {
+    background-color: azure;
+    height: 200px;
+}
+
+.profile-links-container {
+    background-color: azure;
+    height: 200px;
+}
+
+.content-mid {
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-container {
+    background-color: #e0e0e0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-mid-header {
+    width: 100%;
+    height: 60px;
+    background: #4b4646;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 40px;
+}
+
+.content p {
+    text-align: center;
+}
+
+.footer {
+    background-color: blue;
+    padding: 30px;
+    text-align: center;
+}
