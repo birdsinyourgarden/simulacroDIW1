@@ -88,7 +88,7 @@ header.content-mid-header {
     width: 100%;
 }
 
-.content{
+.content {
     display: flex;
     height: 80%;
     width: 100%;
@@ -97,6 +97,6 @@ header.content-mid-header {
     font-size: 13px;
 }
 
-p{
+p {
     margin-bottom: 50px;
 }
