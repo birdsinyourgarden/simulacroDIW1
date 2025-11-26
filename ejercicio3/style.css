@@ -1,0 +1,30 @@
+ul {
+    background-color: black;
+    list-style: none;
+    display: flex;
+    padding: 3%;
+}
+
+li {
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(201, 201, 201);
+    border-radius: 2px;
+    padding: 0 10px;
+    font-weight: bold;
+}
+
+.countries--first {
+    flex-direction: row-reverse;
+}
+
+.countries--second {
+    flex-direction: column;
+}
+
+.countries--third {
+    flex-direction: column-reverse;
+
+}

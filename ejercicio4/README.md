@@ -5,6 +5,6 @@ Vamos a crear una tabla de datos con solamente código HTML, la cual llevará la
 
 ![Screenshot of the information](/ejercicio4/images/datosTabla.png)
 
-Sin usar CSS, con HTML simple puedes agregar algunos estilos básicos a los elementos.
+No es necesario usar un archivo externo de CSS, con HTML simple podéis agregar algunos estilos básicos a los elementos.
 
 La tabla tiene que quedar como la imagen adjunta en la carpeta de ejercicio4. 
